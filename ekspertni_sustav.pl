@@ -48,7 +48,7 @@ cijena_osnove(150).
 zahtjev(ured,          slaba,   slaba,    8,  256).
 zahtjev(skola,         slaba,   slaba,    8,  256).
 zahtjev(programiranje, srednja, slaba,   16,  512).
-zahtjev(igre,          srednja, jaka,    16, 1000).
+zahtjev(gaming,          srednja, jaka,    16, 1000).
 zahtjev(obrada_videa,  jaka,    jaka,    32, 2000).
 
 razina(slaba,   1).
