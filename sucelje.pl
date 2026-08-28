@@ -11,7 +11,7 @@ sucelje :-
 
     new(MeniNamjena, menu(namjena, cycle)),
     send_list(MeniNamjena, append,
-              [ured, skola, programiranje, igre, obrada_videa]),
+              [ured, skola, programiranje, gaming, obrada_videa]),
     send(D, append, MeniNamjena),
 
     new(PoljeBudzet, int_item(budzet_eur, 1200)),
